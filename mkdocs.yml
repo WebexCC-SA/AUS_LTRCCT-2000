@@ -128,13 +128,13 @@ nav:
             - "Mission 6 (BONUS): Deliver fulfillment results to the caller": ./main/AI_Lab_Scripted_Mission6.md
       - Conclusion: ./main/AI_Lab_Scripted_Conclusion.md
 ##  - AI Assistant [BONUS]:
-      - Lab Guide:
-            - "Lab overview": ./main/AI_Lab_Features_Overview.md
-            - "Mission 1: AI Agent Transfer Summary": ./main/AI_Lab_Assist_Mission1.md
-            - "Mission 2: Call Drop Summary": ./main/AI_Lab_Assist_Mission_2.md
-            - "Mission 3: Real Time Transcript": ./main/AI_Lab_Assist_Mission3.md
-            - "Mission 4: AutoCSAT": ./main/AI_Lab_Assist_AutoCSAT.md
-      - Conclusion: ./main/AI_Lab_Assist_Conclusion.md
+##      - Lab Guide:
+##            - "Lab overview": ./main/AI_Lab_Features_Overview.md
+##            - "Mission 1: AI Agent Transfer Summary": ./main/AI_Lab_Assist_Mission1.md
+##            - "Mission 2: Call Drop Summary": ./main/AI_Lab_Assist_Mission_2.md
+##            - "Mission 3: Real Time Transcript": ./main/AI_Lab_Assist_Mission3.md
+##            - "Mission 4: AutoCSAT": ./main/AI_Lab_Assist_AutoCSAT.md
+##      - Conclusion: ./main/AI_Lab_Assist_Conclusion.md
 #  - Scripted AI Agent:
 #      - Lab Guide:
 #            - "Lab overview": ./main/AI_Lab_Scripted_Overview.md
