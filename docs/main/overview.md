@@ -85,12 +85,13 @@ icon: material/bullseye-arrow
 
 # Overview
 
-We will begin with building an Autonomous Agent that will help the contact order flowers for their partner. It could be an anniversary or other occasions. The agent will also capture email address, shipping address, offer choices etc.
+Building an AI agent is as easy as ordering flowers!
+We will begin with building a voice Autonomous Agent that will help the caller order flowers for their partner. It could be an anniversary or other occasions. The agent will also capture email address, shipping address, offer choices etc.
 We will get the agent to capture and store the booking in a database.
 We will then hook it up the voice flow and interact with it.
 We will also build Scripted AI Agent to do specific tasks like fetching status of the order.
 
-In this lab, we will: <br><br>
+Extra details: <br><br>
 <!-- **• Uncover Opportunities:** Analyze current datea to identify key themes, trends, and automation opportunities for improved service efficiency. <br><br>-->
  **• Integrate Intelligent AI Agents:** Utilize Cisco Autonomous and Scripted AI Agents to build dynamic, context-aware self-service flows that adapt to customer needs in real-time. <br><br>
 **• Seamless AI-to-Human Collaboration:** Experience smooth transitions from AI agents to human agents, ensuring continuous context and interaction summaries for effective issue resolution. <br><br>
@@ -99,7 +100,7 @@ In this lab, we will: <br><br>
 **• Utilize Proactive Campaign:** Proactively engage customers through intelligent outreach and dynamic self-service using Webex AI Agents.-->
 ## Use Case 
 
-## Webex AI Agent Design - to order flowers! As easy as that!
+## Webex AI Agent Design - to order flowers!
 
 Designing a **Webex AI Agent** for 4Flowers, a flower shop, to assist callers to order flowers.
 
@@ -111,7 +112,7 @@ Designing a **Webex AI Agent** for 4Flowers, a flower shop, to assist callers to
 - **Gathering delivery information**, including **address**, **email**, and **sms number**.
 - **BONUS - not part of this lab**
     - Try including **delivery date** - you may need to make changes to the MockAPI database and other related changes in the AI Agent and flows.
-- **Order Confirmation will be sent to the email that the contact provides when interacting with the AI agent.**
+- **Order Confirmation will be sent to the email that the contact provides (you can use your own email address) when interacting with the AI agent.**
     - We are using Gmail with OAuth 2.0 to send emails
     - This setup is not part of this lab but if you have questions, we can cover it after the lab.
     - SMS would be the best way but considering the lab tenant we are using has US numbers as MSID, SMS delivery is not 100%
@@ -119,12 +120,12 @@ Designing a **Webex AI Agent** for 4Flowers, a flower shop, to assist callers to
 - **Sharing store hours** and relevant **business information**  
 - **Transferring to a human agent** when needed - augmenting the human 
 
-### Human Agent Support
+<!--### Human Agent Support
 
 - **Human agents** are equipped with **AI-powered tools** to ensure:
   - **Fast issue resolution**  
   - **Personalized service**  
-  - **Exceptional customer experience** across all interactions
+  - **Exceptional customer experience** across all interactions-->
 
 ## Learning Objectives
 
