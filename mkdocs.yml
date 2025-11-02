@@ -127,7 +127,7 @@ nav:
             - "Mission 5 (BONUS): Configure the fulfillment": ./main/AI_Lab_Scripted_Mission5.md
             - "Mission 6 (BONUS): Deliver fulfillment results to the caller": ./main/AI_Lab_Scripted_Mission6.md
       - Conclusion: ./main/AI_Lab_Scripted_Conclusion.md
-  - AI Assistant [BONUS]:
+##  - AI Assistant [BONUS]:
       - Lab Guide:
             - "Lab overview": ./main/AI_Lab_Features_Overview.md
             - "Mission 1: AI Agent Transfer Summary": ./main/AI_Lab_Assist_Mission1.md
