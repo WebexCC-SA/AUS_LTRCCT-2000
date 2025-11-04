@@ -58,8 +58,8 @@ More pre-configured entities will be mentioned during the lab missions if they h
 
 #### Login to Agent Desktop Using Microsoft Edge - this keeps the browsers and sessions separate
 
-1. Click <a href="microsoft-edge:https://desktop.wxcc-us1.cisco.com">Launch Agent Desktop in Edge</a>.
-   Or you can copy paste this URL to the Edge browser's address bar: https://desktop.wxcc-us1.cisco.com
+1. Click <a href="microsoft-edge:https://beta-desktop.wxcc-us1.cisco.com">Launch Agent Desktop in Edge</a>.
+   Or you can copy paste this URL to the Edge browser's address bar: https://beta-desktop.wxcc-us1.cisco.com
    <!--![Profiles](../graphics/Lab1_AI_Agent/GS.3.png)-->
 
 2. Allow notification for the Agent Desktop. Select login option as **Desktop**, select your Team and click on **Submit**.

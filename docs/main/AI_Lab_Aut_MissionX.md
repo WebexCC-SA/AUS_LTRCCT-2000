@@ -85,7 +85,8 @@ Integrate the AI Agent with the Voice Flow.
 
 ### Task 2. Test Agent Handoff Configurations.
 
-1. From the browser start logging in to [Agent Desktop](https://desktop.wxcc-us1.cisco.com){:target="_blank"} with the same credentials. You will see another login screen with OKTA on it where you may need to enter the email address again and the password provided to you. 
+1. Click <a href="microsoft-edge:https://beta-desktop.wxcc-us1.cisco.com">Launch Agent Desktop in Edge</a>.
+   Or you can copy paste this URL to the Edge browser's address bar: https://beta-desktop.wxcc-us1.cisco.com Use the same credentials. You will see another login screen with OKTA on it where you may need to enter the email address again and the password provided to you. 
 2. Select **Desktop** endpoint option and choose the team. **<span class="attendee-id-container"><span class="attendee-id-placeholder" data-suffix="__2000_Team">Your_Attendee_ID</span>_2000_Team<span class="copy" title="Click to copy!"></span></span>**. Click **Submit**. Allow browser to access Microphone by clicking **Allow** on every visit.
 3. Make your agent ***Available*** and you're ready to make a call.
 
