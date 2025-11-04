@@ -19,31 +19,30 @@ Create an AI agent and upload the knowledge base (KB) to enable the agent to pro
 
 ### Task 1. Creating new AI Agent with Knowladge Base.
 
-1. <span style="color: red;">[IMPORTANT]</span> Download the file [Flowers_Catalog](../graphics/Lab1_AI_Agent/Flowers_Catalog.xlsx){:Flowers_Catalog}.
-    ![Profiles](../graphics/Lab1_AI_Agent/2.74.png)
+1. <span style="color: red;">[IMPORTANT]</span> Download the file [Flowers_Catalog](../graphics/Lab1_AI_Agent/Flowers_Catalog.xlsx){:Flowers_Catalog}. Save it your computer's desktop or whereever you like it to be saved. We will need to use this in a bit.
+    <!-- ![Profiles](../graphics/Lab1_AI_Agent/2.74.png) -->
     
-    > 
-    > **Flower_Catalog.xlsx** - file contains information on the available single flowers and bouquets, including the price of the flowers or bouquets and occasions that suit the flowers.
-    >
+       > **Flower_Catalog.xlsx** - file contains information on the available single flowers and bouquets, including the price of the flowers or bouquets and occasions that suit the flowers.
+    
 
 2. Open up and review the file. 
-    ![Profiles](../graphics/Lab1_AI_Agent/2.56.png)
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.56.png)</details>
 
 
 3. Ignore if already logged-in into Control hub with your Admin user. Login into [Webex Control Hub](https://admin.webex.com){:target="_blank"} by using your Admin profile **<span class="attendee-id-container">wxcclabs+admin_ID<span class="attendee-id-placeholder" data-prefix="wxcclabs+admin_ID" data-suffix="@gmail.com">Your_Attendee_ID</span>@gmail.com<span class="copy" title="Click to copy!"></span></span>**. You will see another login screen with OKTA on it where you may need to enter the email address again and the password provided to you.
 
 4. Go to Contact Center from the left side navigation panel, and under Quick Links, click on **Webex AI Agent**
 
-    ![Profiles](../graphics/Lab1/L1M6_OpenWebexAI.gif)
+    <details>![Profiles](../graphics/Lab1/L1M6_OpenWebexAI.gif)</details>
 
 5. In AI Agent Builder navigate to **Knowledge** from left hand side menu panel. 
 
 6. Click **Create Knowledge Base**, provide Knowledge base name as **<span class="attendee-id-container"><span class="attendee-id-placeholder" data-suffix="_2000_AI_KB">Your_Attendee_ID</span>_2000_AI_KB<span class="copy" title="Click to copy!"></span></span>**, then click **Create**.
-    ![Profiles](../graphics/Lab1_AI_Agent/2.1.gif)
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.1.gif)</details>
 
 7. Click **Add File** or drag and drop file **Flower_Catalog.xlsx** you downloaded from external drive on **Step 1**. Then click **Process Files**. Wait until the file is processed. It could take 1-2 mins.
 
-    ![Profiles](../graphics/Lab1_AI_Agent/2.2.gif)
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.2.gif)</details>
 
     Optional: You can also natively create a Knowledge Base document by Clicking **Documents** then **Create Document** and paste the content. **Save** it. 
     <details>![Profiles](../graphics/Lab1_AI_Agent/2.75KBDocument.gif)</details>
@@ -72,7 +71,7 @@ Create an AI agent and upload the knowledge base (KB) to enable the agent to pro
     <details>![Profiles](../graphics/Lab1_AI_Agent/2.16.png)</details>
 
 
-13. In the instructions add additional specific guidlines that you would like the AI Agent to follow. Just **copy the text below and paste it to the Instractions section**: <br>
+13. In the instructions add additional specific guidlines that you would like the AI Agent to follow. Just **copy the text below and paste it to the Instructions section**: <br>
 
 
     >Always first check what is the event for the flowers so you can provide the best option. 
@@ -112,7 +111,7 @@ Create an AI agent and upload the knowledge base (KB) to enable the agent to pro
     >Always read back the address that customer provided and ask for confirmation if it is correct. If it is not correct, ask to provide the address again.
 
     >Always ask if the customer needs to confirmation email before completing the order. Collect the email address as this is mandatory.</br></br>
-    <details>![Profiles](../graphics/Lab1_AI_Agent/2.4.gif)</details>
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.4_148.gif)</details>
 
 
 
@@ -128,14 +127,13 @@ Create an AI agent and upload the knowledge base (KB) to enable the agent to pro
 
 1. Click on **Preview** and testing the AI Agent to understand how it behaves using Chat channel. You can start the conversation with: **"I need flowers for my partner"**<span class="copy-static" title="Click to copy!" data-copy-text="I need flower for my friend"><span class="copy"></span></span> and try to customize you order. 
 
-<details>![Profiles](../graphics/Lab1_AI_Agent/2.59_148.gif)</details>
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.59_148.gif)</details>
 
 2. Click on **Preview** and testing the AI Agent to understnad how it behaves using Voice channel. You can start the conversation with: **"I need flowers for my partner"**<span class="copy-static" title="Click to copy!" data-copy-text="I need flower for my friend"><span class="copy"></span></span> and try to customize you order. 
 > **Note:** This Lab is being conducted in a classroom with more than a few attendees.  
 > Environmental factors, such as background noise and other attendees speaking next to you, may affect the response accuracy.  
 > For best results, it is **strongly recommended to use computer headphones**, if available.
 
-
-<details>![Profiles](../graphics/Lab1_AI_Agent/2.60.gif)</details>
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.60.gif)</details>
 
 <p style="text-align:center"><strong>Congratulations, you have officially completed this mission! 🎉🎉 </strong></p>
