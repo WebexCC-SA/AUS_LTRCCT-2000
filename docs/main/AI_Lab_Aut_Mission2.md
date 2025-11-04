@@ -76,7 +76,7 @@ Required: <b>Yes</b>
 Entity Name: ***email***<span class="copy-static" title="Click to copy!" data-copy-text="email"><span class="copy"></span></span> <br>
 Entity Types: <b>email</b> <br>
 Description: ***A valid email address.***<span class="copy-static" title="Click to copy!" data-copy-text="A valid email address."><span class="copy"></span></span> <br>
-Value: ***\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)****<span class="copy-static" title="Click to copy!" data-copy-text="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"><span class="copy"></span></span> <br>
+Value: ***Auto-populated. Do not Change.***<br>
 Required: <b>Yes</b>
 
 7. By following the same pattern, create an entity to collect the customer's phone number.<br>
