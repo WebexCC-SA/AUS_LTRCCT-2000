@@ -98,7 +98,7 @@ Integrate the AI Agent with the Voice Flow.
     ![Profiles](../graphics/Lab1_AI_Agent/2.54.png)
 
 6. With this setting enabled, the live agent can see the conversation details between the caller and the AI agent. Please check if you can view the IVR transcripts during your test calls with Agent Handoff. 
-    ![Profiles](../graphics/Lab1_AI_Agent/2.55.png)
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.55_148.gif)</details>
 
 
 <p style="text-align:center"><strong>Congratulations, you have officially completed the Autonomous AI Agent lab! 🎉🎉 </strong></p>
