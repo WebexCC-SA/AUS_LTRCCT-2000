@@ -180,9 +180,9 @@ Required: <b>Yes</b>
 ### Task 4. Deliver data from Webex Connect to AI studio for the response to the customer. 
 
 1. <span style="color: red;">[Read Only]</span> Once the HTTP request is completed a new object will be created on the third pary application. You can see all object by using the this link [https://68f59beb6b852b1d6f1486a2.mockapi.io/orderDatabase](https://68f59beb6b852b1d6f1486a2.mockapi.io/orderDatabase){:target="_blank"}. Below you can see the screenshot with all order informations. Currently there are only a few, but by the time of this lab there could be more.
-      <details>![Profiles](../graphics/Lab1_AI_Agent/2.64.png)</details>
+      <details>![Profiles](../graphics/Lab1_AI_Agent/2.64_148.png)</details>
 Each order/object will contain all the information that we sent from AI Studio but one - id. This key is created automatically once we create the object. The goal of this Task is to send the value of the **id** back to the AI Agent so AI Agent can provide it to the customer while they are still in live contact, like you can see on the picture below.<br>
-      <details>![Profiles](../graphics/Lab1_AI_Agent/2.31.png)</details>
+      <details>![Profiles](../graphics/Lab1_AI_Agent/2.31_148.png)</details>
 
 2. <span style="color: red;">[Read Only]</span> When you were configuring HTTP Request in your previous Task, on the bottom of the request you were configuring the Output Variable. This variable will be used to parse the unique order **id** and pass the value to the Output Variable with name **orderNumber**. See the screenshot below. In the next step we will be configuring this orderNumber variable to be sent to Webex AI studio.</br>
       <details>![Profiles](../graphics/Lab1_AI_Agent/2.65.png)</details>
