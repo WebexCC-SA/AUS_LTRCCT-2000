@@ -7,6 +7,8 @@ In this lab, you’ve learned to create and enhance virtual agents by integratin
 
 By following the call flow, you’ve seen how AI Agents can efficiently handle tasks like providing store hours and tracking orders, enabling seamless customer interactions. These skills equip you to build intelligent, effective virtual agents for real-world applications.
 
+[Later Reading: Webex AI Agent Blog](https://blog.webex.com/customer-experience/announcing-general-availability-of-webex-ai-agent-paving-way-new-era-cx/){:target="_blank"}
+
 [The Deck](../graphics/Lab1_AI_Agent/LTRCCT-2000.pptx){:download}
 
 <!-- <a href="https://webexcc-sa.github.io/AUS_LTRCCT-2000/main/graphics/Lab1_AI_Agent/LTRCCT-2000.pptx">The Deck</a> -->

@@ -34,7 +34,7 @@ icon: material/bullseye-arrow
 
 > Team:  **<span class="attendee-id-container"><span class="attendee-id-placeholder" data-suffix="_2000_Team">Your_Attendee_ID</span>_2000_Team<span class="copy"></span></span>**
 
-> Site: SiteOne (Do not try to change this)
+> Site: Site One (Do not try to change this)
 
 > Admin:   **<span class="attendee-id-container">wxcclabs+admin_ID<span class="attendee-id-placeholder" data-prefix="wxcclabs+admin_ID" data-suffix="@gmail.com">Your_Attendee_ID</span>@gmail.com<span class="copy"></span></span>**
 
@@ -56,9 +56,9 @@ More pre-configured entities will be mentioned during the lab missions if they h
 2. Login using your **Admin** user name and password. 
    ![Profiles](../graphics/Lab1_AI_Agent/GS2.gif)
 
-#### Login to Agent Desktop Using Microsoft Edge
+#### Login to Agent Desktop Using Microsoft Edge - this keeps the browsers and sessions separate
 
-1. Click <a href="microsoft-edge:https://desktop.wxcc-us1.cisco.com">Agent Desktop in Edge</a>.
+1. Click <a href="microsoft-edge:https://desktop.wxcc-us1.cisco.com">Launch Agent Desktop in Edge</a>.
    Or you can copy paste this URL to the Edge browser's address bar: https://desktop.wxcc-us1.cisco.com
    <!--![Profiles](../graphics/Lab1_AI_Agent/GS.3.png)-->
 
@@ -71,11 +71,11 @@ More pre-configured entities will be mentioned during the lab missions if they h
 4. Allow use of microphones. This is important because we will be using WebRTC (that is what the Desktop radiobutton choice was about)
    ![Profiles](../graphics/Lab1_AI_Agent/GS7.png)
 
-#### Calling to Contact Center
-You can make test calls from your mobile phone or by using Webex Calling app. Please find the Webex App and log in with the admin credentials that were shared with you.
+#### Calling to your assigned number in Webex Contact Center - look at the card your received
+You can make test calls from your mobile phone or by using Webex Calling app. Please find the Webex App and log in with the Admin credentials that were shared with you on the card.
    ![Profiles](../graphics/Lab1_AI_Agent/GS8.gif)
 
-Place test call to the test number  +15206603129 to confirm that you Webex Phone is configured to place calls
+Place test call to the test number  +15206603142 to confirm that you Webex Phone is configured to place calls
 
 !!! Note
     International dialing is not allowed so you won't be able to dial your cell phones unless you have a US number.
