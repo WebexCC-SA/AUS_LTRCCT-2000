@@ -1,9 +1,9 @@
 ---
-site_name: "LTRCCT-2000 Hands-On AI in Action: The Future of Customer Care with Webex Contact Center"
+site_name: "LTRCCT-2000 -- Hands-On AI in Action: The Future of Customer Care with Webex Contact Center"
 site_description: "LTRCCT-2000 Hands-On AI in Action: The Future of Customer Care with Webex Contact Center"
 Speaker: "Speakers: Dominic Franklin Gonsalves"
 site_author: domgonsa
-site_name: LTRCCT-2000
+site_name: "LTRCCT-2000 -- Hands-On AI in Action: The Future of Customer Care with Webex Contact Center"
 # must be same as "site_name"
 copyright: Copyright &copy; 2025 Cisco Systems Inc. All Rights Reserved.
 theme:
@@ -117,7 +117,7 @@ nav:
 #            - "Mission 3: Upload prebuilt AI Agent. Failover for Mission 2": ./main/AI_Lab_Aut_Mission3.md
             - "Mission 3: Integrating the AI Agent with Flow for Voice Calls": ./main/AI_Lab_Aut_MissionX.md
       - Conclusion: ./main/AI_Lab_Aut_Conclusion.md
-  - Scripted AI Agent:
+  - BONUS - Scripted AI Agent:
       - Lab Guide:
             - "Lab overview": ./main/AI_Lab_Scripted_Overview_New.md
             - "Mission 1: Configure Scripted Agent to answer basic questions": ./main/AI_Lab_Scripted_Mission1.md

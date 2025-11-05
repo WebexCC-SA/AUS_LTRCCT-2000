@@ -11,7 +11,7 @@ Your mission is to:
 
 Integrate the AI Agent with the Voice Flow. 
 
-### Task 1. Build WxCC voice flow with AI Agent.
+### Task 1. Build WxCC voice flow with AI Agent. <span style="color: red;">**Mostly Read ONLY - flows have been created for you but not published**</span>
 
 1. In Control Hub navigate to **Flows**, click on **Manage Flows** dropdown list and select **Create Flows**. Select **Start Fresh**.
         <details>![Profiles](../graphics/Lab1_AI_Agent/2.47.gif)</details>
