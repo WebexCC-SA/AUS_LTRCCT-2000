@@ -111,7 +111,7 @@ Designing a **Webex AI Agent** for 4Flowers, a flower shop, to assist callers to
 - **Order Confirmation will be sent to the email that the contact provides (you can use your own email address) when interacting with the AI agent.**
     - We are using Gmail with OAuth 2.0 to send emails
     - This setup is not part of this lab but if you have questions, we can cover it after the lab.
-    - [BONUS] SMS channel is something you can try on your Gold Tenants
+    - [BONUS] SMS channel is something you can try on your Tenants when you get back next week
 - **Providing order status updates** upon request  
 - **Sharing store hours** and relevant **business information**  
 - **Transferring to a human agent** when needed - augmenting the human 
