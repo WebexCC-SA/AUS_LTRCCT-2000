@@ -12,8 +12,8 @@ Your mission is to create a new Scripted AI Agent from the template and configur
 
 #### Task 1. Creating a AI Agent using a Template
 
-1. <span style="color: red;">[IMPORTANT]</span> Download the [Scripted Agent](https://drive.google.com/file/d/1HjXCeIJ4TkcW8XOIHePVKa6pVi6Lw2sO/view?usp=sharing){:target="_blank"}.
-    ![Profiles](../graphics/Lab1_AI_Agent/6.91.png) 
+1. <span style="color: red;">[IMPORTANT]</span> Download the [Scripted Agent](../graphics/Lab1_AI_Agent/Scripted_AI_Agent_Template.json){:Scripted_AI_Agent_Template.json}. Save it to your preferred location.
+    ![Profiles](../graphics/Lab1_AI_Agent/6.91.png)
 
 2. Login in to [Webex Control Hub](https://admin.webex.com){:target="_blank"} by using your Admin profile **wxcclabs+admin_ID<span class="attendee-id-placeholder">Your_Attendee_ID</span>@gmail.com**. You will see another login screen with OKTA on it where you may need to enter the email address again and the password provided to you.
 

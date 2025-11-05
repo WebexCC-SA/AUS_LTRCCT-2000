@@ -9,6 +9,6 @@ By following the call flow, you’ve seen how AI Agents can efficiently handle t
 
 [Later Reading: Webex AI Agent Blog](https://blog.webex.com/customer-experience/announcing-general-availability-of-webex-ai-agent-paving-way-new-era-cx/){:target="_blank"}
 
-[The Deck](../graphics/Lab1_AI_Agent/LTRCCT-2000.pptx){:download}
+[The Deck](../graphics/Lab1_AI_Agent/LTRCCT-2000.pptx){:LTRCCT-2000.pptx}
 
 <!-- <a href="https://webexcc-sa.github.io/AUS_LTRCCT-2000/main/graphics/Lab1_AI_Agent/LTRCCT-2000.pptx">The Deck</a> -->
