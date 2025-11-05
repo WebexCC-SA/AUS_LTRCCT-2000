@@ -80,7 +80,10 @@ Integrate the AI Agent with the Voice Flow.
 
     <details>![Profiles](../graphics/Lab1_AI_Agent/2.53.gif)</details>
 
-9. Dial Support Number assigned to your **<span class="attendee-id-placeholder">Your_Attendee_ID</span>_2000_Channel** to test the Autonomous AI Agent over a voice call.
+9. Dial Support Number assigned to your **<span class="attendee-id-placeholder">Your_Attendee_ID</span>_2000_Channel** to test the Autonomous AI Agent over a voice call. <span style="color: red;">When speaking the Email address and Delivery Address - use NATO phonetic alphabet like "A for Alpha, B for Bravo" etc.</span>
+> **Note:** This Lab is being conducted in a classroom with more than a few attendees.  
+> Environmental factors, such as background noise and other attendees speaking next to you, may affect the response accuracy.  
+> For best results, it is **strongly recommended to use computer headphones**, if available.
 
 
 ### Task 2. Test Agent Handoff Configurations.

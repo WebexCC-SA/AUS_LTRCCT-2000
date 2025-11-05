@@ -12,8 +12,11 @@ Your mission is to create a new Scripted AI Agent from the template and configur
 
 #### Task 1. Creating a AI Agent using a Template
 
-1. <span style="color: red;">[IMPORTANT]</span> Download the [Scripted Agent](../graphics/Lab1_AI_Agent/Scripted_AI_Agent_Template.json){:Scripted_AI_Agent_Template.json}. Save it to your preferred location.
-    ![Profiles](../graphics/Lab1_AI_Agent/6.91.png)
+1. <span style="color: red;">[IMPORTANT]</span> Download the [Scripted Agent](../graphics/Lab1_AI_Agent/Scripted_AI_Agent_Template.zip){:Scripted_AI_Agent_Template.zip} zip file. Save it to your preferred location.
+    ![Profiles](../graphics/Lab1_AI_Agent/6.91_1_148.png)
+    
+    Next, Unzip it (just double click and Windows will open the zip just like a directory, you can drag it out to the Downloads folder, for example)
+    ![Profiles](../graphics/Lab1_AI_Agent/6.91_2_148.png)
 
 2. Login in to [Webex Control Hub](https://admin.webex.com){:target="_blank"} by using your Admin profile **wxcclabs+admin_ID<span class="attendee-id-placeholder">Your_Attendee_ID</span>@gmail.com**. You will see another login screen with OKTA on it where you may need to enter the email address again and the password provided to you.
 
@@ -21,7 +24,7 @@ Your mission is to create a new Scripted AI Agent from the template and configur
 
     ![Profiles](../graphics/AI_Track/AI_Scripted_OpenWebexAI.gif)  
 
-4. Click on **Import agent** to create a new AI Agent by importing preconfigured template. Click on **Upload** button, locate and select **ScriptedAIAgent.json** you downloaded at the beginning of the mission.
+4. Click on **Import agent** to create a new AI Agent by importing preconfigured template. Click on **Upload** button, locate and select **ScriptedAIAgent.json** you downloaded and unzipped at the beginning of the mission.
 5. Name your Agent as **<span class="attendee-id-container"><span class="attendee-id-placeholder" data-suffix="_Scripted_AI_Agent">Your_Attendee_ID</span>_Scripted_AI_Agent<span class="copy" title="Click to copy!"></span></span>** and click **Import**
 6. Make the bot live by clicking on **Save Changes** and then **Publish** button on top right.
 7. Enter **v1** in the popup comment window, then click **Publish**.

@@ -110,7 +110,9 @@ Create an AI agent and upload the knowledge base (KB) to enable the agent to pro
 
     >Always read back the address that customer provided and ask for confirmation if it is correct. If it is not correct, ask to provide the address again.
 
-    >Always ask if the customer needs to confirmation email before completing the order. Collect the email address as this is mandatory.</br></br>
+    >Always ask if the customer needs to confirmation email before completing the order. Collect the email address as this is mandatory.
+    >Always read back the email address that customer provided and ask for confirmation if it is correct. If it is not correct, ask to provide the email address again.
+    </br></br>
     <details>![Profiles](../graphics/Lab1_AI_Agent/2.4_148.gif)</details>
 
 
@@ -129,7 +131,8 @@ Create an AI agent and upload the knowledge base (KB) to enable the agent to pro
 
     <details>![Profiles](../graphics/Lab1_AI_Agent/2.59_148.gif)</details>
 
-2. Click on **Preview** and testing the AI Agent to understnad how it behaves using Voice channel. You can start the conversation with: **"I need flowers for my partner"**<span class="copy-static" title="Click to copy!" data-copy-text="I need flower for my friend"><span class="copy"></span></span> and try to customize you order. 
+2. Click on **Preview** and testing the AI Agent to understnad how it behaves using Voice channel. You can start the conversation with: **"I need flowers for my partner"**<span class="copy-static" title="Click to copy!" data-copy-text="I need flower for my friend"><span class="copy"></span></span> and try to customize your order.
+ <span style="color: red;">When speaking the Email address and Delivery Address - use NATO phonetic alphabet like "A for Alpha, B for Bravo" etc.</span>
 > **Note:** This Lab is being conducted in a classroom with more than a few attendees.  
 > Environmental factors, such as background noise and other attendees speaking next to you, may affect the response accuracy.  
 > For best results, it is **strongly recommended to use computer headphones**, if available.
