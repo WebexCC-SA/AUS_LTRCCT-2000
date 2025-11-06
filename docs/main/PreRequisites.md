@@ -10,6 +10,17 @@ icon: material/bullseye-arrow
 3. If you have never used Webex Contact Center, don't worry. You should be able to follow these instructions and finish the lab.
 
 
+
+
+#### Do this first - Login to Webex app to make calls to your assigned number in Webex Contact Center - look at the card your received
+You can make test calls from your mobile phone or by using Webex Calling app. Please find the Webex App and log in with the Admin credentials that were shared with you on the card.
+   ![Profiles](../graphics/Lab1_AI_Agent/GS8.gif)
+
+Place test call to the test number  +15206603142 to confirm that you Webex Phone is configured to place calls
+
+!!! Note
+    International dialing is not allowed so you won't be able to dial your cell phones unless you have a US number.
+
 ### Know before you start
 
 1. We will be using a shared lab tenant for simulations, meaning all attendees will work within the same Webex Contact Center environment. To avoid conflicts, ensure that any entities you configure are tagged with the Attendee ID assigned to you.
@@ -62,7 +73,7 @@ More pre-configured entities will be mentioned during the lab missions if they h
    Or you can copy paste this URL to the Edge browser's address bar: https://beta-desktop.wxcc-us1.cisco.com
    <!--![Profiles](../graphics/Lab1_AI_Agent/GS.3.png)-->
 
-2. Allow notification for the Agent Desktop. Select login option as **Desktop**, select your Team and click on **Submit**.
+2. Allow notification for the Agent Desktop. Select login option as **Desktop**, select your Team and click on **Submit**. This has been done for you so you may not have to do all the steps here. Note that we are using WebRTC so you must allow browser microphone use.
    ![Profiles](../graphics/Lab1_AI_Agent/GS5.png)
 
 3. Click Continue on the Emergency Serice Notification (if applicable).

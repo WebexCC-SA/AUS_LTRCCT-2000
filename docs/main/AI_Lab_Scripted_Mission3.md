@@ -6,6 +6,7 @@ icon: material/medal
 ### Mission Details
 
 Your mission is to integrate the Scripted AI agent with Voiceflow to enable it to answer questions about store hours.
+Use this voice flow as a reference: 148_LTRCCT_2000
 
 ### Build
 

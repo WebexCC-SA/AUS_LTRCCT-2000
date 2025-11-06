@@ -3,7 +3,7 @@
 icon: material/medal
 ---
 
-### Mission Details
+### Mission Details Review ONLY
 
 Your mission is to review preconfigured Scripted AI Agent for tracking existing order. If you would like to build it by yourself there are BONUS Missions 3,4,5 and 6 of this lab. 
 
