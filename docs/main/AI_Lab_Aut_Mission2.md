@@ -179,7 +179,7 @@ Required: <b>Yes</b>
 
 ### Task 4. Deliver data from Webex Connect to AI studio for the response to the customer. 
 
-1. <span style="color: red;">[Read Only]</span> Once the HTTP request is completed a new object will be created on the third pary application. You can see all object by using the this link [https://68f59beb6b852b1d6f1486a2.mockapi.io/orderDatabase](https://68f59beb6b852b1d6f1486a2.mockapi.io/orderDatabase){:target="_blank"}. Below you can see the screenshot with all order informations. Currently there are only a few, but by the time of this lab there could be more.
+1. <span style="color: red;">[Read Only]</span> Once the HTTP request is completed a new object will be created on the third pary application. You can see all created objects here [Mockapi Database](https://mockapi.io/projects/68f59beb6b852b1d6f1486a3){:target="_blank"}. Below you can see the screenshot with all order informations. Currently there are only a few, but by the time of this lab there could be more.
       <details>![Profiles](../graphics/Lab1_AI_Agent/2.64_148.png)</details>
 Each order/object will contain all the information that we sent from AI Studio but one - id. This key is created automatically once we create the object. The goal of this Task is to send the value of the **id** back to the AI Agent so AI Agent can provide it to the customer while they are still in live contact, like you can see on the picture below.<br>
       <details>![Profiles](../graphics/Lab1_AI_Agent/2.31_148.png)</details>
@@ -241,7 +241,13 @@ Also see this change in action below.
 1. In the Webex AI Agent Studio, click on preview and order flowers for you friend. 
       <details>![Profiles](../graphics/Lab1_AI_Agent/2.72_148.gif)</details>
 
-2. Check if the confirmation email was received on your email. </br>
+2. Check if the confirmation email was received on your email. <br>
       <details>![Profiles](../graphics/Lab1_AI_Agent/2.73_148.png)</details>
 
+3. Alternately, you can also check Mockapi for your order entry: [Mockapi Database](https://mockapi.io/projects/68f59beb6b852b1d6f1486a3){:target="_blank"}<br>
+      
+      > username: ciscolivewxcclab@gmail.com <br>
+      > password: 6i5c0liv3 <br>
+      <span style="color: red;">[Please do not edit anything - just look]</span>
+      <details>![Profiles](../graphics/Lab1_AI_Agent/2.74_148.gif)</details>
 <p style="text-align:center"><strong>Congratulations, you have officially completed this mission! 🎉🎉 </strong></p>

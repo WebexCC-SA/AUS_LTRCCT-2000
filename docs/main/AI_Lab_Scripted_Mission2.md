@@ -61,7 +61,8 @@ Autonomous_Scripted_Flow_2000_148"><span class="copy"></span></span>.
 7. Open up **HTTP Request** block. It is configured to send **GET** request with the parameter as the order_id value to retrive the response specifically for this order. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.80.png) 
 
-8. If we would do the same request from Postman for the order Id 6, here is the information we would get. 
+8. <span style="color: red;">[READ/Reference ONLY - you don't have to do this for the lab]</span>
+If we would do the same request from Postman for the order Id 6, here is the information we would get. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.81_148.png) 
 
 9. While on **HTTP Request** node, scroll down and you will see the configurations to parse the data from the response. It is configured to use JSON path **$.[0].status** and assign the response to the variable with name **order_status**.
