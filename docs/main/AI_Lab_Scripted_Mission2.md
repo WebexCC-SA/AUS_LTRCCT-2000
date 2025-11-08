@@ -11,7 +11,7 @@ Your mission is to review preconfigured Scripted AI Agent for tracking existing 
 
 #### Task 1. Review the Configurations in AI Studio to track an order. 
 
-1. Go to AI Studio and open AI Agent with name ***148_Scripted_AI_Agent***<span class="copy-static" title="Click to copy!" data-copy-text="180_Scripted_AI_Agent"><span class="copy"></span></span>. 
+1. Go to AI Studio and open AI Agent with name ***148_Scripted_AI_Agent***<span class="copy-static" title="Click to copy!" data-copy-text="148_Scripted_AI_Agent"><span class="copy"></span></span>. 
 **Please do not making any changes to this agent, as this lab is for review purposes only for the entire group.**
 
     ![Profiles](../graphics/Lab1_AI_Agent/6.69_148.png) 
@@ -47,7 +47,7 @@ Your mission is to review preconfigured Scripted AI Agent for tracking existing 
 3. Go to [Control Hub](https://admin.webex.com){:target="_blank"} > Contact Center. Click on **Flows** and open the flow with name ***
 Autonomous_Scripted_Flow_2000_148***<span class="copy-static" title="Click to copy!" data-copy-text="
 Autonomous_Scripted_Flow_2000_148"><span class="copy"></span></span>.
-     ![Profiles](../graphics/Lab1_AI_Agent/6.76.gif) 
+     ![Profiles](../graphics/Lab1_AI_Agent/6.76_148.png) 
 
 4. Click on the lower VirtualAgentV2 block. You will see the Activity Output Variables. The Entity value can be found in VirtualAgentV2.MetaData. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.77_148.png) 
