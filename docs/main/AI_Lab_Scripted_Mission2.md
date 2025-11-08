@@ -52,23 +52,24 @@ Autonomous_Scripted_Flow_2000_148"><span class="copy"></span></span>.
 4. Click on the lower VirtualAgentV2 block. You will see the Activity Output Variables. The Entity value can be found in VirtualAgentV2.MetaData. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.77_148.png) 
 
-5. Click on the next **SetVariable** block and you can see that we just assigned the value from Activity Output Variable from the previous **VirtualAgentV2** block to the flow variable with name **MetaData_Scripted_Agent**. This is an optional step. 
-     ![Profiles](../graphics/Lab1_AI_Agent/6.78.png) 
+5. Click on the next **SetVariable** block and you can see that we just assigned the value from Activity Output Variable from the previous **VirtualAgentV2** block to the flow variable with name **MetaData_Scripted_Agent**. This is an optional step but recommended.
+     ![Profiles](../graphics/Lab1_AI_Agent/6.78_148.png) 
 
-6. Click on **Parse** block. It is configured to parse data from **MetaData_Scripted_Agent** variable using JSON path **$.ordernumber** and assign the respon to the flow variable with name **order_id**.
-     ![Profiles](../graphics/Lab1_AI_Agent/6.79.png) 
+6. Click on **Parse** block. It is configured to parse and extract the data from **MetaData_Scripted_Agent** variable that we just set above (this variable holds the output from the Virtual Agent block) using JSON path **$.ordernumber** and assign this value to to the flow variable with name **order_id**. This way we are ready for the next step - to query the CRM with this value.
+     ![Profiles](../graphics/Lab1_AI_Agent/6.79_148.png) 
 
-7. Open up **HTTP Request** block. It is configured to send **GET** request with the parameter as the order_id value to retrive the response specifically for this order. 
+7. Open up **HTTP Request** block. It is configured to send **GET** request with the parameter as the order_id value to retrive the response from the CRM, our Mockapi repo, specifically for this order. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.80.png) 
 
 8. <span style="color: red;">[READ/Reference ONLY - you don't have to do this for the lab]</span>
-If we would do the same request from Postman for the order Id 6, here is the information we would get. 
+If we would do the same request from Postman for the order Id 16, here is the information we would get. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.81_148.png) 
 
 9. While on **HTTP Request** node, scroll down and you will see the configurations to parse the data from the response. It is configured to use JSON path **$.[0].status** and assign the response to the variable with name **order_status**.
-     ![Profiles](../graphics/Lab1_AI_Agent/6.82_148.png) 
+     ![Profiles](../graphics/Lab1_AI_Agent/6.82_148.png)
+     <details>![Profiles](../graphics/Lab1_AI_Agent/6.82_148_2.gif)</details>
 
-10. For example if I would need to parse the status of the order 6 using this JSON path, the result would be "new".
+10. For example if I would need to parse the status of the order 16 using this JSON path, the result would be "new".
      ![Profiles](../graphics/Lab1_AI_Agent/6.83_148.png) 
 
 #### Task 3. Send the data from Voice Flow to AI Agent. 
@@ -87,18 +88,18 @@ If we would do the same request from Postman for the order Id 6, here is the inf
 
 #### Task 4. Place test call and review the trace. 
 
-1. Log in to your Webex app using your agent credentials - wxcclabs+agent_IDxxx@gmail.com (where xxx is your attendee ID). Call the number +15206603142 that is configured to deliver the call to the flow **Autonomous_Scripted_Flow_2000_148**.
-     ![Profiles](../graphics/Lab1_AI_Agent/6.87.png) 
+1. Log in to your Webex app using your Admin credentials - **<span class="attendee-id-container">wxcclabs+admin_ID<span class="attendee-id-placeholder" data-prefix="wxcclabs+admin_ID" data-suffix="@gmail.com">Your_Attendee_ID</span>@gmail.com<span class="copy"></span></span>**. Call the number +15206603142 that is configured to deliver the call to the flow **Autonomous_Scripted_Flow_2000_148**.
+     ![Profiles](../graphics/Lab1_AI_Agent/6.87_148_1.png) 
 
 2. Press 2 to go to the Scripted AI agent. Ask to track your order. Provide the order number as 6 or any other order that you created earlier. You should hear the response that the order status is "new".
 
 3. Open up Debug mode in the flow **Autonomous_Scripted_Flow_2000_148**.
-     ![Profiles](../graphics/Lab1_AI_Agent/6.88.gif)
+     ![Profiles](../graphics/Lab1_AI_Agent/6.88_148.gif)
 
 4. Review the trace. 
-     ![Profiles](../graphics/Lab1_AI_Agent/6.89.png) 
+     ![Profiles](../graphics/Lab1_AI_Agent/6.89_148.png) 
 
 5. In the AI Agent Studio, go to Sessions and review the traces. 
-     ![Profiles](../graphics/Lab1_AI_Agent/6.90.png) 
+     ![Profiles](../graphics/Lab1_AI_Agent/6.90.gif) 
 
 <p style="text-align:center"><strong>Congratulations, you have officially completed this mission! 🎉🎉 </strong></p>
