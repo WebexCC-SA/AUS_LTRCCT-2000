@@ -87,6 +87,6 @@ Path Expression: **$[0].status**</br>
 13. Please test the call by dialing the number configured with the **Channel** and **Flow**. Select option 2 in the IVR and say, "I want to track my order." Provide the order number that you created earlier. The call will then be disconnected. Open the Debug mode for your flow, find the latest call, and review the logs. You should see the status of your order.
     ![Profiles](../graphics/Lab1_AI_Agent/6.55.gif)
 
-14. In the next **Mission 5** you will configure the flow to return the order status details back to the caller. 
+14. In the next **Mission 6** you will configure the flow to return the order status details back to the caller. 
 
 <p style="text-align:center"><strong>Congratulations, you have officially completed this mission! 🎉🎉 </strong></p>
