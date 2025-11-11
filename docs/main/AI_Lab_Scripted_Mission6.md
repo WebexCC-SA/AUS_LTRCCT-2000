@@ -5,7 +5,7 @@ icon: material/medal
 
 ### Mission Details
 
-In the previous **Mission 4**, you configured a fulfillment flow that executes an API call in the WxCC Voice flow based on the order number and parses the order status. In this mission, you will configure the flow to return this status to **AI Studio** so that the Scripted AI agent can deliver the result back to the caller.
+In the previous **Mission 5**, you configured a fulfillment flow that executes an API call in the WxCC Voice flow based on the order number and parses the order status. In this mission, you will configure the flow to return this status to **AI Studio** so that the Scripted AI agent can deliver the result back to the caller.
 
 
 ### Build
@@ -14,7 +14,7 @@ In the previous **Mission 4**, you configured a fulfillment flow that executes a
 
 Note: To deliver the call back to AI Studio, you need to add an additional **VirtualAgentV2** block to the flow.
 
-1. Open **<span class="attendee-id-container">Autonomous_Scripted_Flow_2000_<span class="attendee-id-placeholder" data-prefix="Autonomous_Scripted_Flow_2000_">Your_Attendee_ID</span><span class="copy" title="Click to copy!"></span></span>** and click **Create Flow** flow. Click on **Edit** the flow. 
+1. Open **<span class="attendee-id-container">Autonomous_Scripted_Flow_2000_<span class="attendee-id-placeholder" data-prefix="Autonomous_Scripted_Flow_2000_">Your_Attendee_ID</span><span class="copy" title="Click to copy!"></span></span>** and click on **Edit** the flow. 
     ![Profiles](../graphics/Lab1_AI_Agent/6.56.gif)
 
 2. Delete the **Disconnect Contact** node and add **VirtualAgentV2** node. Connect **HttpRequest** block to **VirtualAgentV2** block. 
