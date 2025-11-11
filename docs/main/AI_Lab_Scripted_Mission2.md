@@ -65,7 +65,7 @@ Autonomous_Scripted_Flow_2000_148"><span class="copy"></span></span>.
 If we would do the same request from Postman for the order Id 16, here is the information we would get. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.81_148.png) 
 
-9. While on **HTTP Request** node, scroll down and you will see the configurations to parse the data from the response. It is configured to use JSON path **$.[0].status** and assign the response to the variable with name **order_status**.
+9. While on **HTTP Request** node, scroll down and you will see the configurations to parse the data from the response. It is configured to use JSON path **$[0].status** and assign the response to the variable with name **order_status**.
      ![Profiles](../graphics/Lab1_AI_Agent/6.82_148.png)
      <details>![Profiles](../graphics/Lab1_AI_Agent/6.82_148_2.gif)</details>
 

@@ -18,7 +18,7 @@ layout: post
   </tr>
   <tr>
     <td style="background-color: #d9edf7; font-weight: bold; color: black;">Agent Desktop</td>
-    <td><a href="https://beta-desktop.wxcc-us1.cisco.com/" target="_blank">https://beta-desktop.wxcc-us1.cisco.com</a></td>
+    <td><a href="microsoft-edge:https://beta-desktop.wxcc-us1.cisco.com">https://beta-desktop.wxcc-us1.cisco.com</a></td>
   </tr>
    <tr>
     <td style="background-color: #d9edf7; font-weight: bold; color: black;">Help Space</td>
