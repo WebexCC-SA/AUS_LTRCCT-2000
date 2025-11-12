@@ -57,7 +57,7 @@ More pre-configured entities will be mentioned during the lab missions if they h
 
 ---
 
-### Getting your computers ready
+### Getting your computers ready 
 
 #### Login to Webex Control. 
 
