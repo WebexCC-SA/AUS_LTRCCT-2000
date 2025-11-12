@@ -97,7 +97,7 @@ If we would do the same request from Postman for the order Id 16, here is the in
      ![Profiles](../graphics/Lab1_AI_Agent/6.88_148.gif)
 
 4. Review the trace. 
-     ![Profiles](../graphics/Lab1_AI_Agent/6.89_148.png) 
+     ![Profiles](../graphics/Lab1_AI_Agent/6.89_148.gif) 
 
 5. In the AI Agent Studio, go to Sessions and review the traces. 
      ![Profiles](../graphics/Lab1_AI_Agent/6.90.gif) 

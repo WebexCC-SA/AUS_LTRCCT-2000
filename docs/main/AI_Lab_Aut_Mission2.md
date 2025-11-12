@@ -55,8 +55,8 @@ Configure an action to collect order details from the customer and send them to 
     <details>![Profiles](../graphics/Lab1_AI_Agent/2.17.gif)</details>
 
 3. Click on create <b>New Action</b>. Under 'Add actions', dropdown the arrow next to Create New and chose Fulfilment, type in  ***Create_New_Order***<span class="copy-static" title="Click to copy!" data-copy-text="Create_New_Order"><span class="copy"></span></span> and the Action Description ***Collect order details, delivery address, total and response with the orderNumber once the order is completed.***<span class="copy-static" title="Click to copy!" data-copy-text="Collect order details, delivery address, total and response with the orderNumber once the order is completed."><span class="copy"></span></span>. In the Action score select <b>Slot filling and fulfillment</b>.
-    
-    <details 1>![Profiles](../graphics/Lab1_AI_Agent/2.18.gif)</details 1>
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.18_148.gif)</details>
+    <details>![Profiles](../graphics/Lab1_AI_Agent/2.18.gif)</details>
 
 4. Scroll down and click to create **New input entity**. Fill up the table with the following and then click on **Add**. <br>
 Entity Name: ***address***<span class="copy-static" title="Click to copy!" data-copy-text="address"><span class="copy"></span></span> <br>
