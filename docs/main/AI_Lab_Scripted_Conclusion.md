@@ -11,4 +11,6 @@ By following the call flow, you’ve seen how AI Agents can efficiently handle t
 
 [The Deck](../graphics/Lab1_AI_Agent/LTRCCT-2000.pptx){:LTRCCT-2000.pptx}
 
+[The Credentials](../graphics/Lab1_AI_Agent/Lab_credentials_CL25_AUS_LTRCCT-2000.xlsx){:Lab_credentials_CL25_AUS_LTRCCT-2000.xlsx}
+
 <!-- <a href="https://webexcc-sa.github.io/AUS_LTRCCT-2000/main/graphics/Lab1_AI_Agent/LTRCCT-2000.pptx">The Deck</a> -->
