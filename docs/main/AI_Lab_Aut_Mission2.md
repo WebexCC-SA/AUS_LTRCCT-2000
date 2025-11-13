@@ -159,7 +159,7 @@ Required: <b>Yes</b>
     >        "address": "$(n2.aiAgent.address)",
     >        "status": "$(n2.aiAgent.status)",
     >        "phoneNumber": "$(n2.aiAgent.phoneNumber)",
-             "email": "$(n2.aiAgent.email)"
+    >         "email": "$(n2.aiAgent.email)"
     >       }
     >       ```   
     > <br>
