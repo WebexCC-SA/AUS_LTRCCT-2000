@@ -131,7 +131,8 @@ Required: <b>Yes</b>
       "delivery": "Type",
       "address": "Type",
       "status": "Type",
-      "phoneNumber": "Type"
+      "phoneNumber": "Type",
+      "email": "Type"
     }
     ```
 
@@ -157,7 +158,8 @@ Required: <b>Yes</b>
     >        "delivery": "$(n2.aiAgent.delivery)",
     >        "address": "$(n2.aiAgent.address)",
     >        "status": "$(n2.aiAgent.status)",
-    >        "phoneNumber": "$(n2.aiAgent.phoneNumber)"
+    >        "phoneNumber": "$(n2.aiAgent.phoneNumber)",
+             "email": "$(n2.aiAgent.email)"
     >       }
     >       ```   
     > <br>
